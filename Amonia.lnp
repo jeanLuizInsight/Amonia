@@ -1,0 +1,17 @@
+--cpu Cortex-M3
+".\startup_lpc17xx.o"
+".\system_lpc17xx.o"
+".\main.o"
+".\adc.o"
+".\dac.o"
+".\lcd.o"
+".\misc.o"
+".\tgs2444.o"
+".\uart.o"
+".\wdt.o"
+".\rs485.o"
+C:\Keil\ARM\RV31\LIB\RTX_CM3.LIB
+--scatter ".\Amonia.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Amonia.map" -o .\Amonia.axf

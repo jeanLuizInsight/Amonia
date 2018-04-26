@@ -1,0 +1,10 @@
+.\1wcom_nh3.o: 1wcom_nh3.c
+.\1wcom_nh3.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\1wcom_nh3.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\1wcom_nh3.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\1wcom_nh3.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\1wcom_nh3.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\1wcom_nh3.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\1wcom_nh3.o: 1wcom_nh3.h
+.\1wcom_nh3.o: misc.h
+.\1wcom_nh3.o: tgs2444.h

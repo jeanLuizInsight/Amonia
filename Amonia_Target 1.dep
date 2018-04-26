@@ -1,0 +1,126 @@
+Dependencies for Project 'Amonia', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x5319CE29)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\system_LPC17xx.c)(0x51D4710A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\main.c)(0x531DE740)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C851F4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C851F4)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\wdt.h)(0x531DB15F)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\uart.h)(0x5319B726)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\1wcom_nh3.h)(0x5319BCE5)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\adc.h)(0x5319B748)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\dac.h)(0x5319D00C)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\tgs2444.h)(0x531DBE69)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\lcd4x20_v3.h)(0x00000000)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\comandos.h)(0x5319D08E)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\pwm.h)(0x531DA684)
+F (.\1wcom_nh3.c)(0x531DC3B7)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\1wcom_nh3.o --omf_browse .\1wcom_nh3.crf --depend .\1wcom_nh3.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\1wcom_nh3.h)(0x5319BCE5)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\tgs2444.h)(0x531DBE69)
+F (.\adc.c)(0x531DA982)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\adc.h)(0x5319B748)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\comandos.c)(0x5319BE7E)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\comandos.o --omf_browse .\comandos.crf --depend .\comandos.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\comandos.h)(0x5319D08E)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\uart.h)(0x5319B726)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\adc.h)(0x5319B748)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\tgs2444.h)(0x531DBE69)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\pwm.h)(0x531DA684)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\dac.h)(0x5319D00C)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\1wcom_nh3.h)(0x5319BCE5)
+F (.\dac.c)(0x531DBEB9)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\dac.o --omf_browse .\dac.crf --depend .\dac.d)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\dac.h)(0x5319D00C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\lcd.c)(0x531DE741)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+F (.\misc.c)(0x531DC4A6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\misc.o --omf_browse .\misc.crf --depend .\misc.d)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\pwm.c)(0x531DAEDE)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\pwm.o --omf_browse .\pwm.crf --depend .\pwm.d)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\pwm.h)(0x531DA684)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\tgs2444.c)(0x531DBEB9)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\tgs2444.o --omf_browse .\tgs2444.crf --depend .\tgs2444.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C851F4)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\tgs2444.h)(0x531DBE69)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\adc.h)(0x5319B748)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\dac.h)(0x5319D00C)
+F (.\uart.c)(0x531DAC44)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\uart.h)(0x5319B726)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\misc.h)(0x5319CFEC)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\tgs2444.h)(0x531DBE69)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+F (.\wdt.c)(0x531DA28F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\wdt.o --omf_browse .\wdt.crf --depend .\wdt.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x51C84B78)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x51C84FFA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C851F4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x51C84FFA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x51C84FFA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x51C84B78)
+I (D:\Unoesc\fase 9ª\Estágio II\Amônia\Firmware\Amonia\wdt.h)(0x531DB15F)
+F (.\1wcom_nh3.h)(0x5319BCE5)()
+F (.\adc.h)(0x5319B748)()
+F (.\comandos.h)(0x5319D08E)()
+F (.\dac.h)(0x5319D00C)()
+F (.\lcd.h)(0x531DACBF)()
+F (.\misc.h)(0x5319CFEC)()
+F (.\pwm.h)(0x531DA684)()
+F (.\tgs2444.h)(0x531DBE69)()
+F (.\uart.h)(0x5319B726)()
+F (.\wdt.h)(0x531DB15F)()
